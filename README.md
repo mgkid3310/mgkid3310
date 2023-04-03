@@ -1,3 +1,7 @@
+![mgkid3310's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgkid3310&count_private=true&theme=nord)  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook)
+
 ### Hi there 👋
 
 <!--
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![mgkid3310's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgkid3310&count_private=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&hide=jupyter%20notebook)
