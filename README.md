@@ -5,7 +5,7 @@
 ### Hi there 👋
 - Studying Mechanical Engineering & Computational Physics at HYU, South Korea  
 - Working at UZURO, researching fluid dynamics & developing thrusters  
-- You can reach me via e-mail: mgkid3310@naver.com or Discord: orbis#2358
+- You can reach me via e-mail: mgkid3310@naver.com or Discord: Orbis#2358
 
 <!--
 **mgkid3310/mgkid3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
