@@ -3,6 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook)
 
 ### Hi there 👋
+- Studying Mechanical Engineering & Computational Physics at HYU, South Korea  
+- Working at UZURO, researching fluid dynamics & developing thrusters  
+- You can reach me via e-mail: mgkid3310@naver.com or Discord: orbis#2358
 
 <!--
 **mgkid3310/mgkid3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
