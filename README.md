@@ -1,4 +1,4 @@
-![mgkid3310's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgkid3310&count_private=true&theme=nord&show_icons=true)  
+![mgkid3310's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgkid3310&count_private=true&theme=nord&show_icons=true&hide=contribs)  
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook)
 
