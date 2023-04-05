@@ -1,4 +1,4 @@
-![mgkid3310's GitHub stats](https://readme-stats-mgkid3310.vercel.app/api?username=mgkid3310&count_private=true&theme=nord&show_icons=true&hide=contribs)  
+![mgkid3310's GitHub stats](https://mgkid3310-readme-stats.vercel.app/api?username=mgkid3310&count_private=true&theme=nord&show_icons=true&hide=contribs)  
   
 ![Top Langs](https://mgkid3310-readme-stats.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook,roff&langs_count=4&exclude_repo=readme-stats,MGM_Orbis,MGM_sourcecode,RSF_Orbis,RSF_Missions)
 
