@@ -1,6 +1,6 @@
 ![mgkid3310's GitHub stats](https://readme-stats-mgkid3310.vercel.app/api?username=mgkid3310&count_private=true&theme=nord&show_icons=true&hide=contribs)  
   
-![Top Langs](https://readme-stats-mgkid3310.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook)
+![Top Langs](https://readme-stats-mgkid3310.vercel.app/api/top-langs/?username=mgkid3310&layout=compact&theme=nord&hide=jupyter%20notebook,roff)
 
 ### Hi there 👋
 - Studying Mechanical Engineering & Computational Physics at HYU, South Korea  
