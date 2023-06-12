@@ -3,6 +3,5 @@
 
 ### Hi there 👋
 - 🌱 Studying Mechanical Engineering & Computational Physics at HYU, South Korea  
-- 🏢 Working at UZURO, researching Fluid Dynamics & developing Thrusters  
 - ⚡ Developing various addons for Arma 3 as a hobby
-- 📫 You can reach me via e-mail: mgkid3310@naver.com or Discord: Orbis#2358
+- 📫 You can reach me via e-mail: mgkid3310@naver.com or Discord: @orbis2358
