@@ -3,7 +3,7 @@
 ![](https://profile-summary-mgkid3310s-projects.vercel.app/api/cards/productive-time?username=mgkid3310&theme=nord_dark&utcOffset=9)  
 
 ### Hi there 👋
-- 🏢 Working as a BackEnd dev for living
+- 🏢 Backend Developer by Profession
 - 🌱 Deep interest in Aerospace Engineering & Computational Physics
-- ⚡ Developing various addons for Arma 3 as a hobby
-- 📫 You can reach me via e-mail: mgkid3310@naver.com or Discord: @orbis2358
+- ⚡ Developing Add-ons for Arma 3 as a Hobby
+- 📫 Contact: mgkid3310@naver.com | Discord: @orbis2358
